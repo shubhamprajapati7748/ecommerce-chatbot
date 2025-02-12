@@ -1,0 +1,5 @@
+evenv/
+.env
+Ecommerce_Chatbot.egg-info/
+ecommercebot/__pycache__
+.DS_Store
